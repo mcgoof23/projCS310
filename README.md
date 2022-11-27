@@ -1,2 +1,2 @@
 # projCS310
-project BU.CS310
+Project BU Semester 1/1 CS310
